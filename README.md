@@ -12,9 +12,9 @@ that file as an argument.
 ## Additional
 
 - [ ] Filter by depth
-- [-] Filter by type
- - [x] File
- - [x] Directory
+- [x] Filter by type
+- 	[x] File
+- 	[x] Directory
 
 ## Usage
 
