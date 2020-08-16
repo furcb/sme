@@ -1,0 +1,3 @@
+#!/usr/bin/env fish
+
+cargo build --release && cp target/release/sme $HOME/.local/bin
